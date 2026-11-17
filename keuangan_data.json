@@ -1,0 +1,11 @@
+{
+    "saldo": 10011.0,
+    "transaksi": [
+        {
+            "jenis": "Pemasukan",
+            "jumlah": 10011.0,
+            "kategori": "Umum",
+            "keterangan": "mkn"
+        }
+    ]
+}
